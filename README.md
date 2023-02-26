@@ -39,7 +39,7 @@ Explicit is better than implicit.
 
 ## 🔴 Mixing programming languages
 
-Make low-level libraries connect different languages.
+Have low-level libraries connect different languages.
 
 - PHP + SQL: ORM
 - PHP + HTML: template engine
