@@ -44,7 +44,7 @@ Have low-level libraries connect different languages.
 - PHP + SQL: ORM
 - PHP + HTML: template engine
 - PHP + JavaScript: JSON
-- PHP + CSS: use CSS classes and variables
+- PHP + CSS: use CSS classes and CSS variables
 
 ## Principles
 
