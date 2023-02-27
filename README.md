@@ -1,6 +1,6 @@
 # Very clean code
 
-Additions to https://github.com/jupeter/clean-code-php
+Additions to https://github.com/piotrplenik/clean-code-php
 
 ## 🟢 Happy and unhappy path
 
