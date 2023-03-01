@@ -41,10 +41,10 @@ Explicit is better than implicit.
 
 Have low-level libraries connect different languages.
 
-- PHP + SQL: ORM
-- PHP + HTML: template engine
-- PHP + JavaScript: JSON
-- PHP + CSS: use CSS classes and CSS variables
+- Main language + SQL: ORM
+- Main language + HTML: template engine
+- Main language + JavaScript: JSON
+- Main language + CSS: use CSS classes and CSS variables
 
 ## Principles
 
