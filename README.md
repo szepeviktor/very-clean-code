@@ -50,3 +50,11 @@ Have low-level libraries connect different languages.
 
 - Abstraction: strive to make deeper layers do the work, write less project-specific code.
 - Be explicit! Implicit things need more brain work thus are error prone.
+
+## Support my thinking
+
+Please consider supporting my work, as formulating the conclusions above takes at least several months.
+
+[![Sponsor](https://github.com/szepeviktor/.github/raw/master/.github/assets/github-like-sponsor-button.svg)](https://github.com/sponsors/szepeviktor)
+
+Thank you!
