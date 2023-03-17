@@ -50,6 +50,11 @@ Have low-level libraries connect different languages.
 
 - Abstraction: strive to make deeper layers do the work, write less project-specific code.
 - Be explicit! Implicit things need more brain work thus are error prone.
+- > There are only two hard things in Computer Science: cache invalidation and naming things.
+
+    — Phil Karlton
+
+    Gain knowledge in _things_, so you can name them.
 
 ## Support my thinking
 
