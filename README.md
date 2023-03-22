@@ -1,5 +1,8 @@
 # Very clean code
 
+[![Tweet](https://img.shields.io/badge/Tweet-share-d5d5d5?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Found%20useful%20policies%20of%20%40szepeviktor&url=https%3A%2F%2Fgithub.com%2Fszepeviktor%2Fvery-clean-code)
+[![theories](https://img.shields.io/badge/more-theories-purple)](https://github.com/stars/szepeviktor/lists/theory)
+
 Additions to https://github.com/piotrplenik/clean-code-php
 
 ## 🟢 Happy and unhappy path
