@@ -57,7 +57,7 @@ Have low-level libraries connect different languages.
 
     — Phil Karlton
 
-    Gain knowledge in _things_, so you can name them.
+    Gain knowledge of _things_, so you can name them.
 
 ## Support my thinking
 
