@@ -29,6 +29,7 @@ The base value of an array is not `null` but `[]`.
 ## 🔴 String manipulation
 
 String manipulation including concatenation is the job of low level libraries as it is highly error prone.
+
 :bulb: Creating messages for UI and logs is not string manipulation.
 
 ## 🟢 Write positive conditions
