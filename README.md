@@ -5,6 +5,8 @@
 
 Additions to https://github.com/piotrplenik/clean-code-php
 
+💡 Cognitive Load is what matters https://github.com/zakirullin/cognitive-load
+
 ## 🟢 Happy and unhappy path
 
 ```
